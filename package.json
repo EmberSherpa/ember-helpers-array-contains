@@ -1,7 +1,7 @@
 {
   "name": "ember-helpers-array-contains",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "1.0.0",
+  "description": "Add {{array-contains}} helper",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,7 +11,7 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/embersherpa/ember-helpers-array-contains.git",
   "engines": {
     "node": ">= 0.10.0"
   },
